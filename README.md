@@ -30,7 +30,7 @@ attributes of the JSon response such as querying whether rates exists and perfor
 
 Class Diagram
 -------------
-![alt text](http://SpartaDevelopment/FixerIOwalkthrough/Imgs)
+![alt text] (https://github.com/N-Adem/Api-Testing/blob/main/Imgs/ClassDiagramImage.png)
 
 Testing
 -------
